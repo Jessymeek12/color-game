@@ -1,14 +1,14 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  background: #f4f4f4;
+  background: #ffdec3;
   padding: 20px;
 }
 
 .container {
   background: white;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 50px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   max-width: 400px;
   margin: auto;
@@ -22,14 +22,14 @@ h2 {
   width: 100px;
   height: 100px;
   margin: 20px auto;
-  border: 2px solid #000;
+  border: none;
 }
 
 .options {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
+  gap: 12px;
 }
 
 .color-button {
